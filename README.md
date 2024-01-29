@@ -6,10 +6,15 @@ Seguindo a orientação das aulas da [Digital Innovation One (Dio)](https://digi
 
 Aqui temos a IA reconhecendo meu rosto e de uma criança que estava bem mais ao fundo da imagem:
 
+
+
 ![Detectando minha face e de uma criança ao fundo](./prints/printDetecting.jpg)
 
 
 Aqui temos a geração dos pontos de referência da minha face, utilizado para o reconhecimento facial e aplicação de filtros, por exemplo:
+
+
+
 
 ![Marcadores mapeando minha face](./prints/printFacialMarkers.jpg)
 
